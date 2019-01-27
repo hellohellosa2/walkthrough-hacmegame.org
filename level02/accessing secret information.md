@@ -1,6 +1,6 @@
 #### Level 02 - Accessing secret information
 
-We get the text "hvs doggkcfr bssrsr hc sbhsf hvwg gsqfsh rohopogs ct ucjsfbasbh gsqfshg wg pohhsfm - yssd hvs wbtcfaohwcb jsfm gsqfsh".
+We get the text "Hvs doggkcfr wg lobori".
 
 Looks like rot13, but It isn't. So let us try a script which runs rot 1 to 26...
 
